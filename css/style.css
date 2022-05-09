@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    text-align: center;
+}
+
+.img{
+    width: 100%;
+}
+
+.btn ul li a{
+    text-decoration: none;
+    background: orangered;
+    border-radius: 5px;
+    padding: 1px;
+    color: white;
+}
+
+
+.btn1{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: darkblue;
+    color: white;
+}
